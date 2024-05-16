@@ -37,7 +37,12 @@ title: Sylius 1.12
 level: 1
 ---
 # Sylius 1.12
-
+---
+layout: section
+title: Conclusion
+level: 1
+---
+# Conclusion
 ---
 layout: end
 hideInToc: true
