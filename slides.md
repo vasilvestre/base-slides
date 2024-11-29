@@ -6,8 +6,9 @@ highlighter: shiki
 lineNumbers: true
 info: false
 css: unocss
-hideInToc: true 
+hideInToc: true
 ---
+
 # TITRE DE LA CONF
 
 SOUS TITRE DE LA CONF
@@ -36,16 +37,22 @@ layout: section
 title: Sylius 1.12
 level: 1
 ---
+
 # Sylius 1.12
+
 ---
 layout: section
 title: Conclusion
 level: 1
 ---
+
 # Conclusion
+
 ---
 layout: end
 hideInToc: true
 ---
 
-<!-- Remercier Akawaka, le staff nottament Thibault et Grégoire Hebert -->
+<!--
+Remercier Akawaka, le staff nottament Thibault et Grégoire Hebert
+-->
